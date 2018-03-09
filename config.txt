@@ -1,9 +1,0 @@
-filter.lfs.clean=git-lfs clean -- %f
-filter.lfs.smudge=git-lfs smudge -- %f
-filter.lfs.process=git-lfs filter-process
-filter.lfs.required=true
-user.email=kerlitoo@gmail.com
-core.autocrlf=true
-core.excludesfile=C:\Users\Kerli Tootsmann\Documents\gitignore_global.txt
-core.editor=notepad
-pip-log.txt contains installer logs
